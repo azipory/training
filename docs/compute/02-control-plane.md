@@ -14,7 +14,7 @@ for ensuring the continued existence of master machines.
 ## Identifying control plane machines
 
 The control plane is executed on machines that have the
-`sigs.k8s.io/cluter-api-machine-type=master` label.
+`sigs.k8s.io/cluster-api-machine-type=master` label.
 
 To find all machines that run the control plane, execute the following:
 
